@@ -1,0 +1,17 @@
+﻿table  {
+    width: 400px;
+    border-spacing: 40px;
+}
+head{
+    font-weight: 300;
+}
+th {
+    text-align: left;
+}
+main  {
+    text-align: center;
+}
+
+footer  {
+    text-align: center; 
+}
